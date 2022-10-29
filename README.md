@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ifrim Vasile-Alexandru
-- 👀 I’m interested in AI, Cyber-security, pentesting, network protection
+- 👀 I’m interested in AI, Cyber-security, pentesting, network exploitation
 - 🌱 I’m currently pursuing a BCs in Computer-Science
 - 📫 How to reach me:
     * linkedin: www.linkedin.com/in/vasile-alexandru-ifrim-038isav

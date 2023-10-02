@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ifrim Vasile-Alexandru
 - Software Engineer @ Bitdefender
 - BSc in Computer Science @ UBB Cluj-Napoca (2020-2023)
 - MSc in Cyberspace Security @ Gheorghe Asachi Technical University, Iasi (2023-2025)
@@ -8,9 +7,6 @@
    * pentesting
    * network exploitation
    * intrusion prevention, detection and response systems
-- 📫 How to reach me:
-    * linkedin: https://www.linkedin.com/in/isav38/
-    * TryHackMe: https://tryhackme.com/p/isav
 
 <!---
 vassia38/vassia38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

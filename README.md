@@ -1,12 +1,11 @@
-- Software Engineer @ Bitdefender
-- BSc in Computer Science @ UBB Cluj-Napoca (2020-2023)
-- MSc in Cyberspace Security @ Gheorghe Asachi Technical University, Iasi (2023-2025)
-- 👀 I’m interested in 
-   * AI
-   * Cyber-security
-   * pentesting
-   * network exploitation
+- Exchange student for 1 semester, MSc in Computer Systems Security @ University of Rouen, FR (sept. 2024 - jan. 2025) 
+- MSc in Cyberspace Security @ Gheorghe Asachi Technical University, RO (2023-2025)
+- BSc in Computer Science @ Babes-Bolyai University of Cluj-Napoca, RO (2020-2023)
+- Software Engineer @ Bitdefender (2022-2024)
+- 👀 I’m interested in
+   * Network& systems administration
    * intrusion prevention, detection and response systems
+   * ML, network engineering
 
 <!---
 vassia38/vassia38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
